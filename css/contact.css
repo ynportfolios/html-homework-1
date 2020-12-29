@@ -1,0 +1,27 @@
+.contact tr {
+  height: 7rem;
+}
+.contact th {
+  width: 150px;
+  text-align: right;
+}
+.contact td{
+  padding-left: 1rem;
+}
+.contact .input_width {
+  width: 480px;
+}
+.content .button {
+  font-size: 18pt;
+  text-align: center;
+  padding: 12px 12px;
+  background: #000066;
+  color: #ffffff;
+  border: 2px solid #000066;
+}
+.content .button:hover {
+  opacity: 0.6;
+}
+.content .button_position {
+  text-align: center;
+}
